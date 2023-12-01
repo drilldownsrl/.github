@@ -1,4 +1,4 @@
-# Tuduu - Le tue esigenze nutrizionali in un’unica app.
+# Tuduu - Le tue esigenze nutrizionali in un’unica app
 
 ![Logo Tuduu](https://tuduu.it/wp-content/uploads/elementor/thumbs/TUDUU_logo_1000x375-q6zanrzr55wfw2zjm3903vej43zlcjtrhjwvjwwqfw.png)
 
